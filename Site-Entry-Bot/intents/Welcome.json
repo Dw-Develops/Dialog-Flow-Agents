@@ -1,0 +1,28 @@
+{
+  "id": "6f652fdc-da86-40ee-89e8-4f008b08fb77",
+  "name": "Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Welcome to the Study Bot Academy. We are a new design concept with the lofty goal of building automated course instructors for many different topics. We\u0027re currently working on our platform and our first automated instructors."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1522750245,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5a986532-e73a-42ef-8868-1317cff07f00",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524301518
+  },
+  {
+    "id": "37adbb02-1d5e-4dbe-b0b9-542f10b9bd0c",
+    "data": [
+      {
+        "text": "hello, hey, hi, howdy, how are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524301518
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "55032546-1f6c-4483-a98a-7ebd61d286f7",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Welcome to the Study Bot Academy. We\u0027re building an Online Education Academy with Artificial Intelligence Instructors!  We\u0027re currently working on our platform and our first automated instructors and there\u0027s not much content available to site visitors just yet. We hope to remedy that directly.  You can go in and have a look around, but I\u0027ll need to ask you to register with our service for update information and feature news.  Please tell me your first and last name."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524301518,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

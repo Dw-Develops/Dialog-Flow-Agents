@@ -1,0 +1,37 @@
+{
+  "id": "8e7f0b0b-c7ff-49e1-90bf-a6770417343d",
+  "name": "Register",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "name",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c2e0f260-6353-4897-b60b-2a88ef71570d",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "signUp",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524301898,
+  "fallbackIntent": false,
+  "events": []
+}
